@@ -1,134 +1,68 @@
 <div align="center">
 
-# 💀 Deadlock: The Support Grimoire
-### Guia de Suporte & Healers | Patch 16/02/2026 (Old Gods, New Blood)
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/header.jpg" width="100%" alt="Deadlock Banner">
 
-![Deadlock Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)
-![Patch](https://img.shields.io/badge/Patch-v2.16.0-blueviolet?style=for-the-badge)
-![Role](https://img.shields.io/badge/Role-Support%2FHealer-green?style=for-the-badge)
+# 🌑 THE PATRON'S GRIMOIRE: SUPPORT & HEALING
+### Official Field Guide | Patch 16/02/2026 | Update: "Old Gods, New Blood"
+
+![Patch](https://img.shields.io/badge/Patch-v2.16.0-8A2BE2?style=for-the-badge&logo=steam&logoColor=white)
+![Role](https://img.shields.io/badge/Role-Support%2FHealer-00C853?style=for-the-badge&logo=medrt&logoColor=white)
+![Status](https://img.shields.io/badge/Meta-BROKEN-D32F2F?style=for-the-badge&logo=fire&logoColor=white)
 
 <p align="center">
-  Um guia rápido e visual para main suportes que querem dominar o meta atual.
-  Baseado em dados do <a href="https://deadlock-api.com/heroes">Deadlock API</a> e <a href="https://tracklock.gg/">Tracklock</a>.
+  <i>"Nós não carregamos a urna, nós garantimos que quem carrega chegue vivo."</i>
 </p>
+
+[Heroes](#-tier-list-de-suportes) • [Items](#-arsenal-obrigatório) • [Gameplan](#-estratégia-avançada)
 
 </div>
 
 ---
 
-## 📊 Tier List Atual (Suporte)
+## 💀 Tier List de Suportes
 
-> **Nota do Patch:** O meta atual favorece *hard sustains* e *controle de zona*. A introdução da **Paige** e do **Rem** mudou a dinâmica das lanes.
+> **Análise do Meta:** A chegada de **Paige** e **Rem** trouxe o *"Hyper-Sustain"* para o jogo. Curas globais e invulnerabilidade estão dominando as lanes.
 
-| Rank | Herói | Função Principal | Dificuldade |
-| :---: | :--- | :--- | :---: |
-| <img src="https://img.shields.io/badge/S+-FFD700?style=flat-square&logo=star&logoColor=black" /> | **Paige** | Escudos / Cura Global | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/S+-FFD700?style=flat-square&logo=star&logoColor=black" /> | **Rem** | Pocket Healer / Buffs | ⭐ |
-| <img src="https://img.shields.io/badge/A-C0C0C0?style=flat-square" /> | **Kelvin** | Cura em Área / Bloqueio | ⭐⭐ |
-| <img src="https://img.shields.io/badge/A-C0C0C0?style=flat-square" /> | **Ivy** | Link / Mobilidade | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/A-C0C0C0?style=flat-square" /> | **Dynamo** | Setup / CC | ⭐⭐ |
-
----
-
-## 🦸 Detalhes dos Heróis
-
-### 🥇 Tier S+ (God Tier)
-
-<table>
-  <tr>
-    <td width="20%" align="center">
-      <img src="./assets/paige.png" width="120" style="border-radius: 10px;" alt="Paige"><br>
-      <b>PAIGE</b><br>
-      <i>The Librarian</i>
-    </td>
-    <td width="80%">
-      <b>🧠 Playstyle:</b> Backline Caster. Você controla a luta de longe, punindo quem avança e salvando o time todo de uma vez.<br><br>
-      <b>✨ Habilidades Chave:</b>
-      <ul>
-        <li><code>Skill 2</code> <b>Defend and Fight!:</b> Escudo + Dano de Arma no aliado. Use no seu Carry.</li>
-        <li><code>Ult</code> <b>Rallying Charge:</b> Onda de cavaleiros global. Cura aliados e stuna inimigos no mapa todo.</li>
-      </ul>
-      <b>🎒 Core Items:</b> <i>Divine Barrier, Superior Cooldown, Refresher.</i>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center">
-      <img src="./assets/rem.png" width="120" style="border-radius: 10px;" alt="Rem"><br>
-      <b>REM</b><br>
-      <i>The Sleepy Demon</i>
-    </td>
-    <td width="80%">
-      <b>🧠 Playstyle:</b> "Mochilinha". Você gruda no aliado mais forte e garante que ele não morra nunca.<br><br>
-      <b>✨ Habilidades Chave:</b>
-      <ul>
-        <li><code>Skill 2</code> <b>Tag Along:</b> Torna-se inalvejável e "entra" no aliado, curando % de vida perdida.</li>
-        <li><code>Ult</code> <b>Naptime:</b> Área enorme que coloca inimigos para dormir (Incapacitate).</li>
-      </ul>
-      <b>🎒 Core Items:</b> <i>Healing Nova, Boundless Spirit, Mystic Reverb.</i>
-    </td>
-  </tr>
-</table>
-
-### 🥈 Tier A (Strong Picks)
-
-<details>
-<summary><b>❄️ Kelvin (Clique para expandir)</b></summary>
-<br>
-<table>
-  <tr>
-    <td width="15%"><img src="./assets/kelvin.png" width="80" style="border-radius: 50%;"></td>
-    <td>
-      <b>Porque escolher?</b> O melhor controle de objetivo do jogo.
-      <br>Use o <b>Frozen Shelter</b> (Domo de Gelo) para fechar o Urn ou segurar o Patron. A cura dentro do domo é absurda.
-    </td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>🌹 Ivy (Clique para expandir)</b></summary>
-<br>
-<table>
-  <tr>
-    <td width="15%"><img src="./assets/ivy.png" width="80" style="border-radius: 50%;"></td>
-    <td>
-      <b>Porque escolher?</b> Transforme seu carry num AC-130.
-      <br>Use <b>Watcher's Covenant</b> para dividir cura e firerate. Use a ult para pegar seu aliado e voar, reposicionando ele ou salvando da morte.
-    </td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>🤖 Dynamo (Clique para expandir)</b></summary>
-<br>
-<table>
-  <tr>
-    <td width="15%"><img src="./assets/dynamo.png" width="80" style="border-radius: 50%;"></td>
-    <td>
-      <b>Porque escolher?</b> Wombo Combo.
-      <br>Seu foco é a <b>Singularity</b> (Buraco Negro). Junte os 6 inimigos e deixe seu time explodir tudo. A cura passiva dele (Skill 2) é ótima para laning phase.
-    </td>
-  </tr>
-</table>
-</details>
-
----
-
-## 🛒 Itemização Obrigatória para Suportes
-
-Não importa o herói, se você é o Suporte, você precisa desses itens na sua build:
-
-| Ícone | Item | Custo | Função |
+| Rank | Herói | Ícone | Estilo de Jogo |
 | :---: | :--- | :---: | :--- |
-| 🟢 | **Healing Rite** | 500 | **Early Game.** Cura forte + Sprint. Salva a lane. |
-| 🟣 | **Rescue Beam** | 1250 | **Mid Game.** Puxa o aliado para você e cura. O famoso "Life Grip". |
-| 🟣 | **Divine Barrier** | 1250 | Escudo instantâneo + Move Speed. Bom para engage. |
-| 🟠 | **Curse** | 6300 | **Late Game.** Transforma o inimigo em sapo/porco. Countera Haze e Seven. |
+| <img src="https://img.shields.io/badge/S+-GOD-FFD700?style=flat-square" /> | **PAIGE** | <img src="./assets/heroes/paige.png" width="50" style="border-radius:10px;"> | **Global Caster.** O escudo dela dá dano de arma. A ult atropela o mapa todo. |
+| <img src="https://img.shields.io/badge/S+-GOD-FFD700?style=flat-square" /> | **REM** | <img src="./assets/heroes/rem.png" width="50" style="border-radius:10px;"> | **Pocket.** Gruda no carry, fica imortal e cura. A Yuumi do Deadlock. |
+| <img src="https://img.shields.io/badge/A-STRONG-C0C0C0?style=flat-square" /> | **KELVIN** | <img src="./assets/heroes/kelvin.png" width="50" style="border-radius:10px;"> | **Objetivo.** O Domo de Gelo ganha jogos sozinho se usado na Urna ou Patron. |
+| <img src="https://img.shields.io/badge/A-STRONG-C0C0C0?style=flat-square" /> | **IVY** | <img src="./assets/heroes/ivy.png" width="50" style="border-radius:10px;"> | **Tether.** Transforma você e seu aliado em uma torreta móvel voadora. |
+| <img src="https://img.shields.io/badge/B-VIABLE-CD7F32?style=flat-square" /> | **DYNAMO** | <img src="./assets/heroes/dynamo.png" width="50" style="border-radius:10px;"> | **Setup.** Só serve se o seu time tiver dano em área para combar na sua ult. |
+
+---
+
+## 🎒 Arsenal Obrigatório
+
+Não importa seu boneco. Se você é suporte, **você compra isso**:
+
+| Ícone | Nome do Item | Preço | Categoria | O que faz? |
+| :---: | :--- | :---: | :---: | :--- |
+| <img src="./assets/items/healing_rite.png" width="45"> | **Healing Rite** | `500` | 🟢 Vitality | **Early Game.** Cura forte + Sprint. Use para não voltar base na lane phase. |
+| <img src="./assets/items/rescue_beam.png" width="45"> | **Rescue Beam** | `3,000` | 🟢 Vitality | **Salva-Vidas.** Puxa o aliado para você e cura. Countera stuns e ults. |
+| <img src="./assets/items/divine_barrier.png" width="45"> | **Divine Barrier** | `3,000` | 🟢 Vitality | **Engage/Peel.** Dá escudo mágico e físico + Move Speed. Use no iniciador. |
+| <img src="./assets/items/curse.png" width="45"> | **Curse** | `6,300` | 🟣 Spirit | **Anti-Carry.** Transforma o inimigo em animal. Anula Haze, Seven e Vindicta. |
+| <img src="./assets/items/boundless_spirit.png" width="45"> | **Boundless Spirit** | `10,000` | 🟣 Spirit | **Late Game.** Aumenta absurdamente o poder das suas curas e escudos. |
+
+---
+
+## 🧠 Estratégia Avançada
+
+### 1. O Combo da Paige (A "Bibliotecária")
+*   **Early Game:** Upe o **Skill 2 (Defend and Fight!)** primeiro. Jogue no seu parceiro de lane sempre que ele for trocar tiro. O bônus de dano ganha a troca.
+*   **Team Fight:** Fique escondido. Quando a briga estourar, use a **Ult (Rallying Charge)** na direção oposta para pegar todos os inimigos pelas costas ou salvar seu time correndo.
+
+### 2. Mecânica do Rem
+*   **Dica Pro:** Você pode usar itens ativos (como *Rescue Beam* e *Curse*) enquanto está grudado (Tag Along) em alguém.
+*   **Não desgrude à toa:** Se você tomar Stun enquanto pula de um aliado para outro, você morre na hora. Espere os CCs acabarem.
+
+### 3. Quando fazer "Curse"?
+Se o time inimigo tem uma **Haze** feedada ou um **Seven** ultando toda hora, o *Curse* é prioridade máxima. Esqueça itens de cura e rushe esse item.
 
 ---
 
 <div align="center">
-  <sub>Documentação criada por um Main Suporte cansado de ver Carry morrendo.</sub><br>
-  <sub><i>Deadlock e todos os assets são propriedades da Valve Software.</i></sub>
+  <sub>Documentação criada para a comunidade brasileira de Deadlock.</sub><br>
+  <sub><i>Imagens e assets © Valve Software.</i></sub>
 </div>
