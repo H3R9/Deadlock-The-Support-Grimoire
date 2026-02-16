@@ -128,27 +128,6 @@ Não importa o herói, se você é o Suporte, você precisa desses itens na sua 
 
 ---
 
-## 💻 API & Data Fetching
-
-Se você quiser puxar os dados mais atuais direto da API do Deadlock para automatizar este guia, aqui está um exemplo de estrutura usando a `deadlock-api`:
-
-```javascript
-// Exemplo de fetch para pegar status dos heróis
-async function getSupportHeroes() {
-  const response = await fetch('https://deadlock-api.com/v1/heroes');
-  const heroes = await response.json();
-  
-  // Filtra apenas suportes/healers (baseado em tags hipotéticas)
-  const supports = heroes.filter(h => 
-    h.tags.includes('Support') || h.tags.includes('Healing')
-  );
-  
-  return supports;
-}
-```
-
----
-
 <div align="center">
   <sub>Documentação criada por um Main Suporte cansado de ver Carry morrendo.</sub><br>
   <sub><i>Deadlock e todos os assets são propriedades da Valve Software.</i></sub>
